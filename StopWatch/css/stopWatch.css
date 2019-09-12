@@ -1,0 +1,78 @@
+h4{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+a:link{
+	text-decoration: none;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	padding-right: 10px;
+	padding-left: 10px;
+	border-radius: 5px;
+}
+.start{
+	background-color: darkgreen;
+	color: white;
+}
+
+.stop{
+	background-color: darkred;
+	color: white;
+}
+
+.reset{
+	background-color: darkblue;
+	color: white;
+}
+.pause{
+	background-color: blue;
+	color: white;
+}
+.play{
+	background-color: green;
+	color: white;
+}
+
+a:hover{
+	background-color: black;
+}
+
+.duration{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	display: none;
+}
+
+.durationTrue{
+	background-color: black;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+	display: block;
+}
+
+p{
+	background-color: purple;
+	color: white;
+	padding: 5px;
+	border-radius: 5px;
+}
+
+.new_status{
+	background-color: darkgreen;
+	color: white;
+}
+
+.error_status{
+	background-color: darkred;
+	color: white;
+}
+
+.reset_status{
+	background-color: darkblue;
+	color: white;
+}
